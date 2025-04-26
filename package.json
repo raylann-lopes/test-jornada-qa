@@ -1,0 +1,23 @@
+{
+  "name": "gms-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioaraujoqa/gms-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabioaraujoqa/gms-test/issues"
+  },
+  "homepage": "https://github.com/fabioaraujoqa/gms-test#readme"
+}
